@@ -12,7 +12,7 @@ Website SMP Sunan Giri beserta PPDB Online
 [Ferdi Yusuf S](https://github.com/ferdiys) as BackEnd Developer  
 [Robet Atiq]() as Database Analyst  
 [Ummu Cholifatul Latifah](https://github.com/latifah1105) as Tester  
-[Alif Anantomi]() as Product Analyst  
+[Alif Anantomi](https://github.com/anantomialif) as Product Analyst  
 [Shalvina Eka]() as Product Analyst  
 [Dimas Riski]() as Product Installer  
 [Alvina Yusan P]() as Product Installer  
